@@ -1,0 +1,22 @@
+body {
+    background-color:palevioletred;
+}
+
+.style-color {
+    font-size: 20px;
+    color:antiquewhite;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#score {
+    margin-left: -800px;
+}
+
+#time {
+    float: right;
+    margin-right: 100px;
+}
+
+canvas {
+    margin-top:200px;
+}
